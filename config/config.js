@@ -97,7 +97,6 @@ export const projects = {
           link: "https://play.google.com/store/apps/details?id=com.ayahemotion.quran_talk",
         },
       ]
-    },*/
     {
       title: "Canada House Price Forcast Simulator",
       description: "Simulator that dynamically processes real-time data from Statistics Canada and the Canada Mortgage and Housing Corporation.",
@@ -143,7 +142,7 @@ export const links = {
   cards: [
     {
       title: "My website",
-      link: "https://vivekkumardudhatportfolio.netlify.app/#projects",
+      link: "https://vivekkumardudhatportfolio.netlify.app",
     },
     /*{
       title: "QuranTalk App",
