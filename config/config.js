@@ -84,7 +84,7 @@ export const projects = {
         },
       ]*/
     },
-    /*{
+     /*{
       title: "QuranTalk",
       description: "An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.",
       icons: [
@@ -97,6 +97,7 @@ export const projects = {
           link: "https://play.google.com/store/apps/details?id=com.ayahemotion.quran_talk",
         },
       ]
+    }*/    
     {
       title: "Canada House Price Forcast Simulator",
       description: "Simulator that dynamically processes real-time data from Statistics Canada and the Canada Mortgage and Housing Corporation.",
