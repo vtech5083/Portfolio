@@ -59,13 +59,13 @@ export const work = {
   title: "What I Love",
   cards: [
     {
-      title: "Finacial Simulator",
-      description: "Easing work of financial investor",
+      title: "Financial and Business Data Analysis",
+      description: "Comprehensive financial and business data analyses to drive strategic decision-making and enhance operational efficiency.",
       icons: null,
     },
     {
       title: "Web and Software Development",
-      description: "I create responsive static websites and ",
+      description: "I create responsive static websites and develop software applications.",
       icons: null,
     }
   ],
@@ -76,7 +76,7 @@ export const projects = {
   cards: [
     {
       title: "Social Media Platform",
-      description: "A digital web platform that can connect Dalhousie Community",
+      description: "A digital web platform that can connect Dalhousie Community.",
       /*icons: [
         {
           icon: faGithub,
@@ -100,7 +100,7 @@ export const projects = {
     },*/
     {
       title: "Canada House Price Forcast Simulator",
-      description: "Developed a Canada House Price Forecast Simulator that dynamically processes real-time data from Statistics Canada and the Canada Mortgage and Housing Corporation.",
+      description: "Simulator that dynamically processes real-time data from Statistics Canada and the Canada Mortgage and Housing Corporation.",
       icons: [
         {
           icon: faGithub,
@@ -138,8 +138,8 @@ export const SEO = {
 
 export const links = {
   image: profile.src,
-  title: "@hashirshoaeb",
-  description: "Computer Science | Fincanial Analyst | Software and Web Developer",
+  title: "@vivekkumardudhat",
+  description: "Computer Science | Financial Analyst | Software and Web Developer",
   cards: [
     {
       title: "My website",
